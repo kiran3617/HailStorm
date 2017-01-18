@@ -1,0 +1,70 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+<title>Hail Storm</title>
+<script>
+mapLink(loc){
+	document.getElementById('calendar').src = loc;
+	
+}
+
+
+
+</script>
+
+</head>
+
+<body>
+<div id="container">
+		<div id="header">
+        	<h1>Hail Protector</h1>
+        </div>   
+        
+       
+ 		
+        <div id="leftmenu">
+<br>
+        <div id="leftmenu_top"></div>
+				<div id="leftmenu_main">            
+                
+                    <h3>Alerts</h3>
+            	<div style="padding-left: 6px; padding-right: 2px; background-color: white;">
+            	<marquee direction="up" scrollamount="5" height="445px" onmouseover="this.stop()" onmouseout="this.start()">
+            	<p style="color: red; padding-bottom: 25px;"><b>>  Hail Storm with velocity 200m/s is approaching. Please find a safe location. </b></p>
+            	
+            	<p style="color: red;"><b>>  Reports mention that Hail Strom will last for atleast 30 Mins. </b></p>
+            	</marquee>
+            	</div>
+            	</div>
+      
+                    
+                
+</div>
+
+              <div id="leftmenu_bottom"></div>
+        </div>
+		<div id="content">
+        
+        
+        <div id="content_top"></div>
+        <div id="content_main">
+            <iframe id="iframe" name="search_iframe" src="Home_nearby.jsp" width="650" height="430" scrolling="no"></iframe>
+</div>
+        <div id="content_bottom"></div>
+            
+          
+            <div id="footer">
+            </br>
+ 
+            </div>
+      </div>
+ <div style="padding-top: 10px;">
+<font ><marquee style="width: 1050px; margin-left: 160px;" onmouseover="this.stop()" onmouseout="this.start()"> 
+<a style="color: yellow; font-size: 20px" href="nearby.jsp" target="search_iframe">A Hailstorm is approaching, please click to view Sheltered Parking lots</a>
+</marquee> 
+</font>
+</div>
+</body>
+</html>

@@ -1,0 +1,98 @@
+<div id="background">
+		<div id="page">
+			<div id="header">
+				<div id="logo">
+					<a href="https://freewebsitetemplates.com/preview/beachresort/index.html"><img src="images/logo.png" alt="LOGO" height="112" width="118"></a>
+				</div>
+				<div id="navigation">
+					<ul>
+						<li class="selected"><a href="#">Home</a></li>
+                    				<li><a href="#">Services</a></li>
+                    				<li><a href="#">Our Vision</a></li>
+                   				<li><a href="#">We are Hiring</a></li>
+					</ul>
+				</div>
+			</div>
+			<div id="contents">
+				<div id="adbox">
+					<img src="images/sea-sound.jpg" alt="Img">
+				</div>
+				<h1>HailStorm is arriving !</h1>
+				<p>
+					T <a href="https://freewebsitetemplates.com/">please click on the link for assistance</a> 
+				</p>
+				<div id="main">
+					<div class="box">
+						<div>
+							<div>
+								<h3>Latest Blog</h3>
+								<ul>
+									<li>
+										<h4><a href="https://freewebsitetemplates.com/preview/beachresort/blog.html">
+											This is just a place holder.
+											</a></h4>
+										<span>April 02, 2012</span>
+										<p>
+											You can remove any link to our website from this website template, you're free to use this website template without linking back to us.&hellip;
+										</p>
+									</li>
+									<li>
+										<h4><a href="https://freewebsitetemplates.com/preview/beachresort/blog.html">
+											This is just a place holder.
+											</a></h4>
+										<span>May 29, 2012</span>
+										<p>
+											You can remove any link to our website from this website template, you're free to use this website template without linking back to us.&hellip;
+										</p>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+					<div id="testimonials" class="box">
+						<div>
+							<div>
+								<h3>Testimonials</h3>
+								<p>
+									&quot;You can remove any link to our website from this website template, you're free to use this website template without linking back to us.&nbsp;This is just a place holder, so you can see what the site would look like.&quot;
+									 <span>- <a href="https://freewebsitetemplates.com/preview/beachresort/index.html">Juan De La Cruz</a></span>
+								</p>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="sidebar">
+					<div class="section">
+						<a href="https://freewebsitetemplates.com/preview/beachresort/rooms.html"><img src="images/rooms.png" alt="Img"></a>
+					</div>
+					<div class="section">
+						<a href="https://freewebsitetemplates.com/preview/beachresort/dives.html"><img src="images/dive-site.png" alt="Img"></a>
+					</div>
+					<div class="section">
+						<a href="https://freewebsitetemplates.com/preview/beachresort/foods.html"><img src="images/food.png" alt="Img"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="footer">
+			<div>
+				<ul class="navigation">
+					<li class="active"><a href="#">Home</a></li>
+                    				<li><a href="#">Services</a></li>
+                    				<li><a href="#">Our Vision</a></li>
+                   				<li><a href="#">We are Hiring</a></li>
+				</ul>
+				<div id="connect">
+					<a href="http://pinterest.com/fwtemplates/" target="_blank" class="pinterest"></a> <a href="http://freewebsitetemplates.com/go/facebook/" target="_blank" class="facebook"></a> <a href="http://freewebsitetemplates.com/go/twitter/" target="_blank" class="twitter"></a> <a href="http://freewebsitetemplates.com/go/googleplus/" target="_blank" class="googleplus"></a>
+				</div>
+			</div>
+			<p>
+				© 2023 by BHACCASYONIZTAS BEACH RESORT. All Rights Reserved
+			</p>
+		</div>
+		<div style="text-align:center;">
+			
+			<br><br>
+		</div>
+	</div>
+	</div><!-- end of templatePreview--><script>
